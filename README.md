@@ -24,4 +24,4 @@ Features:
 4) Time and Space complexity of algorithm being visualized.
 
 
-Take a look at live version: 
+Take a look at live version: https://vanshikasahotra.github.io/sortting/
